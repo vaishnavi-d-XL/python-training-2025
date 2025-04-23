@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "name": "Alice",
+        "department": "Engineering",
+        "salary": 95000,
+        "skills": [
+            "Python",
+            "AWS",
+            "Docker"
+        ],
+        "level": "mid"
+    },
+    {
+        "id": 102,
+        "name": "Bob",
+        "department": "HR",
+        "salary": 60000,
+        "skills": [
+            "Communication",
+            "Recruitment"
+        ],
+        "level": "mid"
+    },
+    {
+        "id": 103,
+        "name": "Charlie",
+        "department": "Engineering",
+        "salary": 105000,
+        "skills": [
+            "Go",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "level": "senior"
+    }
+]

@@ -1,0 +1,87 @@
+2025-04-22 13:18:26,301  - WARNING - WARNING : No task found here
+2025-04-22 13:18:26,302  - INFO - INFO :Task added :Develop
+2025-04-22 13:18:26,304  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:18:26,305  - INFO - INFO :Task added :Deploy
+2025-04-22 13:18:26,306  - INFO - INFO : Displaying tasks
+2025-04-22 13:18:26,307  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:18:26,309  - INFO - INFO : Displaying tasks
+2025-04-22 13:18:26,311  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:18:26,312  - INFO - INFO : Displaying tasks
+2025-04-22 13:18:26,314  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:18:26,315  - WARNING - WARNING : No task found here
+2025-04-22 13:21:07,963  - WARNING - WARNING : No task found here
+2025-04-22 13:21:07,964  - INFO - INFO :Task added :Develop
+2025-04-22 13:21:07,964  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:21:07,964  - INFO - INFO :Task added :Deploy
+2025-04-22 13:21:07,964  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:07,964  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:07,964  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:07,964  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:07,964  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:07,964  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:07,964  - WARNING - WARNING : No task found here
+2025-04-22 13:21:42,699  - WARNING - WARNING : No task found here
+2025-04-22 13:21:42,699  - INFO - INFO :Task added :Develop
+2025-04-22 13:21:42,699  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:21:42,699  - INFO - INFO :Task added :Deploy
+2025-04-22 13:21:42,699  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:42,699  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:42,699  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:42,699  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:42,699  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:42,699  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:42,699  - WARNING - WARNING : No task found here
+2025-04-22 13:21:52,537  - WARNING - WARNING : No task found here
+2025-04-22 13:21:52,537  - INFO - INFO :Task added :Develop
+2025-04-22 13:21:52,537  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:21:52,538  - INFO - INFO :Task added :Deploy
+2025-04-22 13:21:52,538  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:52,538  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:52,538  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:52,538  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:52,538  - INFO - INFO : Displaying tasks
+2025-04-22 13:21:52,538  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:21:52,538  - WARNING - WARNING : No task found here
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:22:54,745  - WARNING - WARNING : No task found here
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:22:54,745  - INFO - INFO :Task added :Develop
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:22:54,745  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:22:54,745  - INFO - INFO :Task added :Deploy
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:22:54,745  - INFO - INFO : Displaying tasks
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:22:54,745  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:22:54,745  - INFO - INFO : Displaying tasks
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:22:54,745  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:22:54,745  - INFO - INFO : Displaying tasks
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:22:54,745  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:22:54,745  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:22:54,745  - WARNING - WARNING : No task found here
+2025-04-22 13:23:57,312  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:23:57,313  - WARNING - WARNING : No task found here
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:23:57,313  - INFO - INFO :Task added :Develop
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:23:57,313  - INFO - INFO :Task added :Write Unit Test
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : Entering function add_task()
+2025-04-22 13:23:57,313  - INFO - INFO :Task added :Deploy
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:23:57,313  - INFO - INFO : Displaying tasks
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:23:57,313  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:23:57,313  - INFO - INFO : Displaying tasks
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:23:57,313  - INFO - INFO : Task at 0 has been removed
+2025-04-22 13:23:57,313  - DEBUG - DEBUG : I'm entering the function diplay_task()
+2025-04-22 13:23:57,314  - INFO - INFO : Displaying tasks
+2025-04-22 13:23:57,314  - DEBUG - DEBUG : Attempting to remove task at 0
+2025-04-22 13:23:57,314  - INFO - INFO : Task at 0 has been removed
+
